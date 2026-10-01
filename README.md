@@ -274,8 +274,6 @@ The CLI lets you interact with her from any terminal.
 
 ## 📸 Screenshots
 
-Because every open-source project needs screenshots dramatically larger than the actual application.
-
 ### Pixie
 
 <p align="center">
