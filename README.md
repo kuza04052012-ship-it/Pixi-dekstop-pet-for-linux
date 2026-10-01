@@ -8,9 +8,7 @@ She doesn't do anything particularly useful.
 
 That's the point. ♡
 
-<p align="center">
-  <img src="assets/pixie-preview.png" alt="Pixie preview" width="700">
-</p>
+<img width="1672" height="941" alt="Уютный Linux-десктоп с Пикси" src="https://github.com/user-attachments/assets/431b73e5-13ed-4ecd-90b7-c3be05e1c8d4" />
 
 ---
 
